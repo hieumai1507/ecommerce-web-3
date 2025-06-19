@@ -127,7 +127,7 @@ const Footer = () => {
               <li>
                 <a href="mailto:info@clothingbrand.com">confi@clothing.com</a>
               </li>
-              <li>paris, france</li>
+              <li> Tran Hong Anh LLC Limited</li>
             </ul>
           </div>
 
